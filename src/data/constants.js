@@ -491,30 +491,6 @@ export const projects = [
     
   },
 
-  {
-
-    id: 14,
-      title: "Inventory Management System",
-      date: " Jan 2022 - March 2022",
-      description:
-        "An efficient web-based application designed to streamline the management of inventory for businesses. The system enables inventory managers to effortlessly track raw and processed materials, update stock levels, and generate detailed logs of all inventory transactions. It provides a user-friendly interface to issue materials, view unavailable items, and maintain an organized inventory database. The system ensures accuracy, reduces human error, and improves operational efficiency by automating key tasks.",
-      image:
-        "https://codeastro.com/wp-content/uploads/2023/02/CodeAstro-Inventory-System-PHP-Laravel_Thumbnail.jpg",
-      tags: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Java",
-        "JSP",
-        "Servlets",
-        "MySQL",
-        
-      
-      ],
-      category: "web app",
-       github: "https://github.com/jadhav-om/Inventory-Management-System",
-      
-    },
 
     {
 
