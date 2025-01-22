@@ -8,10 +8,10 @@ export const Bio = {
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/objadhav",
+  github: "https://github.com/jadhav-om",
   resume:
-    "https://drive.google.com/file/d/12FqdbY3B0NVbie4LfqGYBu-UA0XxmKjr/view?usp=drivesdk",
-  linkedin: "https://www.linkedin.com/in/om-jadhav-669a741b8/",
+    "https://drive.google.com/file/d/1ZGNJuA82pUeoNsV6ZIIlIWwpoMJvJASE/view?usp=drive_link",
+  linkedin: "https://www.linkedin.com/in/jadhav-om/",
   twitter: "https://twitter.com/objadhav7",
   insta: "",
   facebook: "",
@@ -39,7 +39,7 @@ export const skills = [
       {
         name: "Angular Js",
         image:
-          "https://camo.githubusercontent.com/8886130b3d8aba95dbdd7c4f9a41029606424cc06d1873c1ced87dd55a222fef/68747470733a2f2f616e67756c61722e696f2f6173736574732f696d616765732f6c6f676f732f616e67756c61722f616e67756c61722e737667",
+          "https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficon%2F71257%2Fangularjs&psig=AOvVaw2CreeNxssK5WxTicFbOhVw&ust=1737607972943000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCzl57EiIsDFQAAAAAdAAAAABAE",
       },
       {
         name: "HTML",
