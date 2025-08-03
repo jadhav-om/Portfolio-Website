@@ -13,7 +13,7 @@ export const Bio = {
     "https://drive.google.com/file/d/1ZGNJuA82pUeoNsV6ZIIlIWwpoMJvJASE/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/jadhav-om/",
   twitter: "https://twitter.com/objadhav7",
-  insta: "",
+  insta: "instagram.com/omjadhav.me",
   facebook: "",
 };
 
