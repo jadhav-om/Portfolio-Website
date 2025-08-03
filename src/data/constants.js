@@ -345,7 +345,7 @@ export const education = [
     school: "R. C. Patel Institute of Technology, Shirpur",
     date: "Nov 2022 - July 2025",
     grade: "8.91 CGPA",
-    desc: "I am currently in my final year pursuing a Bachelor’s degree in Computer Engineering at R. C. Patel Institute of Technology, Shirpur. With a CGPA of 8.79, I have gained strong technical knowledge through coursework in Data Structures and Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks. I am actively enhancing my skills through projects and hands-on learning, preparing for a career in software development.",
+    desc: "I am currently in my final year pursuing a Bachelor’s degree in Computer Engineering at R. C. Patel Institute of Technology, Shirpur. With a CGPA of 8.91, I have gained strong technical knowledge through coursework in Data Structures and Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks. I am actively enhancing my skills through projects and hands-on learning, preparing for a career in software development.",
     degree: "Bachelor of Technology - B. Tech in Computer Engineering",
   },
   {
